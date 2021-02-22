@@ -3,6 +3,16 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Saakshi
+    image_webp: image/team/Saakshi_DP.webp
+    image: image/team/Saakshi_DP.jpg
+    designation: CMO
+    content: 'Passionate about Digital Marketing, Content Creation & Brand Building.
+      I have 6+ years of experience and have worked with leading luxury fashion and
+      premium personal care and beauty brands. '
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/saakshitanwar93/
   - name: AJ
     image_webp: images/team/Abhishek_DP.webp
     image: images/team/Abhishek_DP.jpg
