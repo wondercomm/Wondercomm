@@ -11,9 +11,9 @@ contact:
   - icon: ti-mobile
     info: 'Phone: 973-295-5455'
   - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
+    info: 'Fax: Coming Soon'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: support@wondercomm.net'
   contact_form:
     enable: true
     form_action: "#"
