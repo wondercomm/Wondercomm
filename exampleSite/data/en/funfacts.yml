@@ -6,7 +6,7 @@ funfacts:
   counter_item:
   - title: Happy Clients
     icon: ti-face-smile
-    count: Coming Soon
+    count: "350"
   - title: Projects completed
     icon: ti-archive
     count: "350"
