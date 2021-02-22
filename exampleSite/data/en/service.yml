@@ -30,6 +30,6 @@ service:
     content: Our Unified Communications suite of apps are available on Android and
       iOS stores - Voice/Video/Text, Tasks, Notes & Collaboration.
   - name: Networking & Security
-    icon: ti-pulse
+    icon: ti-shield
     content: 'Data and Voice Network services includes auditing, designing (network
       | firewall/load balancer | Servers), installation, configuration and maintenance. '
