@@ -18,15 +18,21 @@ pricing:
     button:
       label: Signup
       link: "#contact"
-  - name: Silver
-    price: "$149"
+  - name: Standard
+    price: "$35"
     unit: month
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
+    - Boomea UC User License*
+    - Device License
+    - Virtual Trunk
+    - Domestic Unlimited Local and LD calling
+    - Domestic Telephone Number
+    - Voicemail Box
+    - Voicemail to Email
+    - HD voice
+    - User Dashboard
+    - Chat/Messaging
+    - File Sharing
     - 24/7 Tech Support
     button:
       label: Signup
