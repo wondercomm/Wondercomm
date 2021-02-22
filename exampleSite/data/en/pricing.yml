@@ -61,7 +61,7 @@ pricing:
       label: Signup
       link: "#contact"
   - name: Enterprise
-    price: "$50"
+    price: "$45"
     unit: month
     services:
     - Boomea UC User License*
