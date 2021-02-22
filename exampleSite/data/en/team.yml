@@ -17,8 +17,9 @@ team:
     image_webp: images/team/Varun_DP.webp
     image: images/team/Varun_DP.jpg
     designation: Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: 7+ years of experience in Designing, Implementing and Troubleshooting
+      Service Provider Networks and Enterprise Networks alongside exceptional management
+      and organizational skills
     social:
     - icon: ti-linkedin
       link: "#https://www.linkedin.com/in/vs325/"
