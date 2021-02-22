@@ -59,7 +59,7 @@ pricing:
     - 24/7 Tech Support
     button:
       label: Signup
-      link: "#"
+      link: "#contact"
   - name: Enterprise
     price: "$50"
     unit: month
