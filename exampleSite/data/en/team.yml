@@ -3,6 +3,16 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: AJ
+    image_webp: images/team/Abhishek_DP.webp
+    image: images/team/Abhishek_DP.jpg
+    designation: CEO
+    content: 'Over 7.5 years of hands-on experience in luxury, fashion and retail
+      for CRM, Loyalty, Customer Analytics, Brand Marketing & Communications, Data
+      Management, Direct Marketing, Website Management, Digital & Social Media Marketing. '
+    social:
+    - icon: ti-linkedin
+      link: "#https://www.linkedin.com/in/abhishekjain1712/"
   - name: Varun Singh
     image_webp: images/team/Varun_DP.webp
     image: images/team/Varun_DP.jpg
