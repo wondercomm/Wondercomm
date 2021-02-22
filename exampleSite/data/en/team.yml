@@ -14,8 +14,8 @@ team:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/vs325/
   - name: Saakshi
-    image_webp: images/team/Saakshi_DP.webp
-    image: images/team/Saakshi_DP.jpg
+    image_webp: images/team/Saakshi_DP_01.webp
+    image: images/team/Saakshi_DP_01.jpg
     designation: CMO
     content: 'Passionate about Digital Marketing, Content Creation & Brand Building.
       I have 6+ years of experience and have worked with leading luxury fashion and
@@ -24,8 +24,8 @@ team:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/saakshitanwar93/
   - name: AJ
-    image_webp: images/team/Abhishek_DP.webp
-    image: images/team/Abhishek_DP.jpg
+    image_webp: images/team/Abhishek_DP_01.webp
+    image: images/team/Abhishek_DP_01.jpg
     designation: CEO
     content: 'Over 7.5 years of hands-on experience in luxury, fashion and retail
       for CRM, Loyalty, Customer Analytics, Brand Marketing & Communications, Data
@@ -38,8 +38,8 @@ team:
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/gordonfranklin/
-    image_webp: images/team/Big_G_DP.webp
-    image: images/team/Big_G_DP.jpg
+    image_webp: images/team/Big_G_DP_01.webp
+    image: images/team/Big_G_DP_01.jpg
     content: IT Veteran, Microsoft Certified - specializing in many technologies over  a
       50+ year IT career. Key Specialties includes Managed Services, Network Operations
       Center (NOC), Software development and integration, Telecommunications, Virtualization,
