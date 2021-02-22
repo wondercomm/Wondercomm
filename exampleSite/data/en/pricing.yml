@@ -36,7 +36,7 @@ pricing:
     - 24/7 Tech Support
     button:
       label: Signup
-      link: "#"
+      link: "#contact"
   - name: Premium
     price: "$40"
     unit: month
