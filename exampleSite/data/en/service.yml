@@ -10,7 +10,7 @@ service:
       Video, Teams Messaging, Meeting, SMS/MMS, FAX, Conference, Call Recording and
       much more!
   - name: Call Center
-    icon: ti-palette
+    icon: ti-headphone-alt
     content: Manage and monitor your call center without having to continuously run
       reports or refresh your screen. The Call Center Console displays real-time statistics
       showing everything you need. Call queues gives you all the data on a single
