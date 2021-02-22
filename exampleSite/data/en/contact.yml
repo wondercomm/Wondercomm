@@ -16,7 +16,7 @@ contact:
     info: 'Email: support@wondercomm.net'
   contact_form:
     enable: true
-    form_action: '"mailto:vs@exportcottage.com"'
+    form_action: mailto:vs@exportcottage.com
     name: Your Name
     email: Your Email
     subject: Subject
