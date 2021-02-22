@@ -4,7 +4,7 @@ service:
   title: Our Services
   service_item:
   - name: Unified Communications
-    icon: ti-layout
+    icon: ti-cloud
     content: A truly complete Unified Communications Platform is all you need for
       all your business communications. Built from ground up with a complete Voice,
       Video, Teams Messaging, Meeting, SMS/MMS, FAX, Conference, Call Recording and
