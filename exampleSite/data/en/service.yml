@@ -9,10 +9,11 @@ service:
       all your business communications. Built from ground up with a complete Voice,
       Video, Teams Messaging, Meeting, SMS/MMS, FAX, Conference, Call Recording and
       much more!
-  - name: Networking
+  - name: Networking & Security
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Data and Voice Network services includes auditing, designing, installation,
+      configuration and maintenance. Security Services includes auditing, firewall/load
+      balancer design, install, configuration & maintenance.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
