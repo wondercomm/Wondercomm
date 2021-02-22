@@ -36,7 +36,7 @@ team:
   - name: Gordon Franklin
     designation: Sr. Advisor
     social:
-    - icon: in-linkedin
+    - icon: ti-linkedin
       link: https://www.linkedin.com/in/gordonfranklin/
     image_webp: images/team/Big_G_DP.webp
     image: images/team/Big_G_DP.jpg
