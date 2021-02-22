@@ -4,9 +4,9 @@ team:
   title: Our Team
   team_member:
   - name: Varun Singh
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
-    designation: CEO/Founder
+    image_webp: images/team/Varun_DP.webp
+    image: images/team/Varun_DP.jpg
+    designation: Founder
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
