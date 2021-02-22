@@ -11,8 +11,6 @@ contact:
     info: Office located in Red Hill, PA.
   - icon: ti-mobile
     info: 'Phone: 973-295-5455'
-  - icon: ti-printer
-    info: 'Fax: Coming Soon'
   - icon: ti-email
     info: 'Email: support@wondercomm.net'
   contact_form:
