@@ -9,24 +9,31 @@ service:
       all your business communications. Built from ground up with a complete Voice,
       Video, Teams Messaging, Meeting, SMS/MMS, FAX, Conference, Call Recording and
       much more!
+  - name: Call Center
+    icon: ti-palette
+    content: Manage and monitor your call center without having to continuously run
+      reports or refresh your screen. The Call Center Console displays real-time statistics
+      showing agent status, answered calls, last call date/time, missed calls, and
+      average call time. Additional statistics include estimated wait time, average
+      wait time, recipient count, active session count, total sessions, missed sessions
+      and abandoned calls. Add one or many call queues to your view giving you all
+      the data on a single screen!
+  - name: Call Recording
+    icon: ti-blackboard
+    content: Struggling to find recorded calls? With Wondercomm, you can search, play,
+      download, share, lock, and delete any calls that have been recorded or shared
+      with that user. All recorded calls are encrypted in transit and at rest.
+  - name: Collaboration
+    icon: ti-world
+    content: With the entire company directory at your fingertips, begin chatting
+      with your team in seconds! Initiate 1-to-1 chat with users or use the group
+      chat feature.
+  - name: Wondercomm Apps
+    icon: ti-package
+    content: Our Unified Communications suite of apps are available on Android and
+      iOS stores - Voice/Video/Text, Tasks, Notes & Collaboration.
   - name: Networking & Security
     icon: ti-pulse
     content: Data and Voice Network services includes auditing, designing, installation,
       configuration and maintenance. Security Services includes auditing, firewall/load
       balancer design, install, configuration & maintenance.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: WordPress Theme
-    icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
