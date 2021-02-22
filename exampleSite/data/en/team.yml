@@ -12,7 +12,7 @@ team:
       Management, Direct Marketing, Website Management, Digital & Social Media Marketing. '
     social:
     - icon: ti-linkedin
-      link: "#https://www.linkedin.com/in/abhishekjain1712/"
+      link: https://www.linkedin.com/in/abhishekjain1712/
   - name: Varun Singh
     image_webp: images/team/Varun_DP.webp
     image: images/team/Varun_DP.jpg
