@@ -5,8 +5,10 @@ about:
   about_item:
   - icon: ti-ruler-pencil
     title: We're Creative
-    content: Our experts work with businesses to create custom solutions to meet their
-      unique Unified Communications goals.
+    content: 'Our experts work with businesses to create custom solutions to meet
+      their unique Unified Communications goals.
+
+'
   - icon: ti-cup
     title: We're Committed
     content: 'Your satisfaction is our #1 priority. We have support channels set up
