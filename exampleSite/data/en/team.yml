@@ -4,8 +4,8 @@ team:
   title: Our Team
   team_member:
   - name: Saakshi
-    image_webp: image/team/Saakshi_DP.webp
-    image: image/team/Saakshi_DP.jpg
+    image_webp: images/team/Saakshi_DP.webp
+    image: images/team/Saakshi_DP.jpg
     designation: CMO
     content: 'Passionate about Digital Marketing, Content Creation & Brand Building.
       I have 6+ years of experience and have worked with leading luxury fashion and
