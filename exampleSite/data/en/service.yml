@@ -13,8 +13,8 @@ service:
     icon: ti-palette
     content: Manage and monitor your call center without having to continuously run
       reports or refresh your screen. The Call Center Console displays real-time statistics
-      showing everything you need. Add one or many call queues to your view giving
-      you all the data on a single screen!
+      showing everything you need. Call queues gives you all the data on a single
+      screen!
   - name: Call Recording
     icon: ti-blackboard
     content: Struggling to find recorded calls? With Wondercomm, you can search, play,
