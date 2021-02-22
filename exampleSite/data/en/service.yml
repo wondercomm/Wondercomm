@@ -21,7 +21,7 @@ service:
       download, share, lock, and delete any calls that have been recorded or shared
       with that user. All recorded calls are encrypted in transit and at rest.
   - name: Collaboration
-    icon: ti-world
+    icon: " ti-cloud"
     content: With the entire company directory at your fingertips, begin chatting
       with your team in seconds! Initiate 1-to-1 chat with users or use the group
       chat feature.
