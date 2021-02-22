@@ -3,8 +3,9 @@ contact:
   enable: true
   title: Ready to Get Started?
   subtitle: We'd love to Chat with You
-  content: 'Thank you for choosing Wondercomm as your Communications Provider. Allow
-    us 24 hours to respond and we''ll get in touch. '
+  content: "Thank you for choosing Wondercomm as your Communications Provider. Allow
+    us 24 hours to respond and we'll get in touch. \nDon't feel like filling out a
+    form? Give us a call."
   contact_list:
   - icon: ti-location-pin
     info: Office located in Red Hill, PA.
