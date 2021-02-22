@@ -1,31 +1,24 @@
-############################## Contact #############################
+---
 contact:
-  enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-
-  # Contact details
+  enable: true
+  title: Ready to Get Started?
+  subtitle: We'd love to Chat with You
+  content: 'Thank you for choosing Wondercomm as your Communications Provider. Allow
+    us 24 hours to respond and we''ll get in touch. '
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
-
-
-  # Contact form
+  - icon: ti-location-pin
+    info: Office in Red Hill, PA.
+  - icon: ti-mobile
+    info: 'Phone: 973-295-5455'
+  - icon: ti-printer
+    info: 'Fax: +880-31-000-000'
+  - icon: ti-email
+    info: 'Email: hello@meghna.com'
   contact_form:
-    enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    enable: true
+    form_action: "#"
+    name: Your Name
+    email: Your Email
+    subject: Subject
+    message: Message
+    submit: Submit
