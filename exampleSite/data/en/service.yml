@@ -3,7 +3,7 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: Unified Communications as a Service (UCaaS)
+  - name: Unified Communications
     icon: ti-layout
     content: A truly complete Unified Communications Platform is all you need for
       all your business communications. Built from ground up with a complete Voice,
