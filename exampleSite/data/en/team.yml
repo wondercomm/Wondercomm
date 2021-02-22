@@ -3,6 +3,16 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Varun
+    image_webp: images/team/Varun_DP.webp
+    image: images/team/Varun_DP.jpg
+    designation: Founder
+    content: 7+ years of experience in Designing, Implementing and Troubleshooting
+      Service Provider Networks and Enterprise Networks alongside exceptional management
+      and organizational skills.
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/vs325/
   - name: Saakshi
     image_webp: images/team/Saakshi_DP.webp
     image: images/team/Saakshi_DP.jpg
@@ -23,13 +33,12 @@ team:
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/abhishekjain1712/
-  - name: Varun
-    image_webp: images/team/Varun_DP.webp
-    image: images/team/Varun_DP.jpg
-    designation: Founder
-    content: 7+ years of experience in Designing, Implementing and Troubleshooting
-      Service Provider Networks and Enterprise Networks alongside exceptional management
-      and organizational skills.
+  - name: Gordon Franklin
+    designation: Sr. Advisor
     social:
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/vs325/
+    - icon: in-linkedin
+      link: https://www.linkedin.com/in/gordonfranklin/
+    image_webp: images/team/Big_G_DP.webp
+    image: images/team/Big_G_DP.jpg
+    content: IT Veteran, Microsoft Certified - specializing in many technologies over  a
+      50+ year IT career.
