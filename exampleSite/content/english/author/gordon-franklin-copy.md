@@ -1,9 +1,8 @@
 +++
-draft = true
 email = "admin@wondercomm.net"
 image = ""
 social = []
-title = "Gordon Franklin-(copy)"
+title = "AJ"
 
 +++
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
