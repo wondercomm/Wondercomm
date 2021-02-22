@@ -12,8 +12,7 @@ contact:
   - icon: ti-mobile
     info: 'Phone: 973-295-5455'
   - icon: ti-email
-    info: 'Email:' 
-    content: "[support@wondercomm.net] (vs@exportcottage.com)"
+    info: 'Email: support@wondercomm.net'
   contact_form:
     enable: false
     form_action: mailto:vs@exportcottage.com
