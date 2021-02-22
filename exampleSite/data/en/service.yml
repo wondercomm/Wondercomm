@@ -31,6 +31,5 @@ service:
       iOS stores - Voice/Video/Text, Tasks, Notes & Collaboration.
   - name: Networking & Security
     icon: ti-pulse
-    content: Data and Voice Network services includes auditing, designing, installation,
-      configuration and maintenance. Security Services includes auditing, firewall/load
-      balancer design, install, configuration & maintenance.
+    content: 'Data and Voice Network services includes auditing, designing (network
+      | firewall/load balancer | Servers), installation, configuration and maintenance. '
