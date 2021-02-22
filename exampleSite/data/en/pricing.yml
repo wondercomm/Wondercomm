@@ -64,12 +64,26 @@ pricing:
     price: "$50"
     unit: month
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
+    - Boomea UC User License*
+    - Device License
+    - Additional Device
+    - Virtual Trunk
+    - Domestic Unlimited Local and LD calling
+    - Domestic Telephone Number with CID
+    - Virtual Extension
+    - Voicemail box
+    - Voicemail to Email
+    - Mobile Twinning
+    - Find me Follow me
+    - HD voice
+    - User Dashboard
+    - Conference Bridge
+    - Hot desking/Hoteling
+    - Device Encryption
+    - Fax to Email
+    - Chat/Messaging
+    - File Sharing
     - 24/7 Tech Support
     button:
       label: Signup
-      link: "#"
+      link: "#contact"
