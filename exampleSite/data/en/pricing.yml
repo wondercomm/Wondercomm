@@ -38,7 +38,7 @@ pricing:
       label: Signup
       link: "#"
   - name: Premium
-    price: "40"
+    price: "$40"
     unit: month
     services:
     - Boomea UC User License*
