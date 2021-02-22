@@ -1,11 +1,16 @@
-############################# call to action ##############################
+---
 cta:
-  enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  enable: true
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  title: Simplify your Business Communications
+  content: Wondercomm’s enterprise VoIP capabilities delivers a truly unified experience
+    in the office and on the road. Capabilities include secure unified messaging,
+    presence, device configuration, call routing, time-based routing, voicemail manager,
+    call center, call recording and much more. Wondercomm runs through a single interface
+    that is available on your desktop (MacOS, Windows, Linux), mobile device (iOS
+    and Android), or your web browser.
   button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    enable: true
+    label: Ready to Start?
+    link: "#contact"
