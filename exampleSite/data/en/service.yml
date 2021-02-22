@@ -16,7 +16,7 @@ service:
       showing everything you need. Call queues gives you all the data on a single
       screen!
   - name: Call Recording
-    icon: ti-blackboard
+    icon: " ti-volume "
     content: Struggling to find recorded calls? With Wondercomm, you can search, play,
       download, share, lock, and delete any calls that have been recorded or shared
       with that user. All recorded calls are encrypted in transit and at rest.
