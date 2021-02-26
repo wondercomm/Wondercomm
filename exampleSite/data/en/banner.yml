@@ -4,10 +4,10 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Experience True Unified Communications
-  content: Unified Communications like never before. One Platform to manage all your
-    communications needs - Voice, Video & Collaboration!
+  title: Unified Communications for Modern Businesses
+  content: Simple to set up | Easy to Use | Cloud-based | One Platform | All your
+    Communications
   button:
     enable: true
-    label: Explore Us
-    link: "#about"
+    label: Get a Live Demo
+    link: "#contact"
