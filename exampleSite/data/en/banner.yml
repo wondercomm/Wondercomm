@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: images/backgrounds/business_banner.webp
+  bg_image: images/backgrounds/business_banner.jpg
   icon: ''
   title: Phone System for Modern Businesses
   content: Simple to set up | Easy to Use | Cloud-based | One Platform | All your
