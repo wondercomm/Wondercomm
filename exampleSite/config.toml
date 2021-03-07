@@ -89,7 +89,7 @@ weight = 8
 author = "Wondercomm"
 description = "Unified Communications MSP provider"
 google_analytics_id = ""
-logo = "images/Wondercomm_Thick_White_700x57.png"
+logo = "images/Wondercomm_Thick_White_500px.png"
 post_share = true
 [params.cookies]
 enable = false
