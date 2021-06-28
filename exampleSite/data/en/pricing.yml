@@ -22,17 +22,23 @@ pricing:
       label: Get it now!
       link: "#contact"
   - name: Basic+
-    price: "$25"
+    price: "$24.99"
     unit: month
     services:
-    - Boomea UC User License*
-    - Device License
-    - Virtual Trunk
-    - Domestic Unlimited Local and LD calling
-    - Voicemail Box
-    - Chat/Messaging
-    - File Sharing
-    - 24/7 Tech Support
+    - Basic Plan Features
+    - Basic IP Phone (Yealink T21P-E2)
+    - Caller ID (CNAM)
+    - Time of the Day Routing
+    - Ring Groups
+    - Directory Service
+    - Holiday Routing
+    - Blacklist Numbers
+    - Custom Music on Hold
+    - Enhanced Call Forwarding
+    - Call Park
+    - Intercom
+    - Private Calling
+    - UC Phone Platform
     button:
       label: Signup
       link: "#contact"
