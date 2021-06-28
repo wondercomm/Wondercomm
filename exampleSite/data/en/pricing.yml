@@ -62,25 +62,9 @@ pricing:
       label: Signup
       link: "#contact"
   - name: Premium
-    price: "$40"
+    price: "$44.99"
     unit: month
-    services:
-    - Boomea UC User License*
-    - Device License
-    - Virtual Trunk
-    - Domestic Telephone Number with CID
-    - Virtual Extension
-    - Voicemail box
-    - Voicemail to Email
-    - Mobile Twinning
-    - Find me Follow me
-    - HD voice
-    - Device audio encryption
-    - User Dashboard
-    - Fax to Email
-    - Chat/Messaging
-    - File Sharing
-    - 24/7 Tech Support
+    services: []
     button:
       label: Signup
       link: "#contact"
