@@ -1,0 +1,102 @@
+---
+pricing:
+  enable: true
+  title: Our Plans
+  pricing_table:
+  - name: Basic
+    price: "$11.99"
+    unit: month
+    services:
+    - 24x5 Basic Support
+    - Hosted Device
+    - Phone Number
+    - Unlimited Calling
+    - e-911 Compliance
+    - Voicemail
+    - Auto-attendant
+    - Call Forwarding
+    - 3-way Conferencing
+    - Extension Dialing
+    - Music on Hold
+    button:
+      label: Get it now!
+      link: "#contact"
+  - name: Basic+
+    price: "$24.99"
+    unit: month
+    services:
+    - 'BASIC PLAN FEATURES
+
+'
+    - 24x7 Support
+    - Basic IP Phone (Yealink T21P-E2)
+    - Caller ID (CNAM)
+    - Time of the Day Routing
+    - Ring Groups
+    - Directory Service
+    - Holiday Routing
+    - Blacklist Numbers
+    - Custom Music on Hold
+    - Enhanced Call Forwarding
+    - Call Park
+    - Intercom
+    - Private Calling
+    - UC Phone Platform
+    button:
+      label: Get it now!
+      link: "#contact"
+  - name: Standard
+    price: "$34.99"
+    unit: month
+    services:
+    - BASIC+ PLAN FEATURES
+    - 24x7 Premium Support
+    - Standard IP Phone (Yealink T-31P)
+    - Mobile App
+    - Enhanced Voicemail
+    - HD Voice
+    - Find Me Follow Me
+    - UC Phone Platform
+    - UC Voicemail Platform
+    - UC Call History Management
+    - UC Contacts Integration (Gmail and Outlook)
+    button:
+      label: Get it now!
+      link: "#contact"
+  - name: Premium
+    price: "$44.99"
+    unit: month
+    services:
+    - STANDARD PLAN FEATURES
+    - 24x7 Phone Support
+    - 24x7 Premium Support
+    - Business IP Phone (Yealink T23G)
+    - Web Phone
+    - Call Recording
+    - Encryption
+    - Incoming Fax to Email
+    - UC Chat + IM + File Share
+    - UC Call Recording Management
+    - 'UC Tasks '
+    - UC Notes
+    - UC Virtual Meeting
+    button:
+      label: Get it now!
+      link: "#contact"
+  - name: Enterprise
+    price: "$59.99"
+    unit: month
+    services:
+    - PREMIUM PLAN FEATURES
+    - 24x7 Dedicated Phone Support
+    - 24x7 Premium Support
+    - Enterprise IP Phone (Yealink T33G)
+    - 'Additional Hsoted Device '
+    - Fax Box (in/out)
+    - Hot Desking
+    - UC Call Center Management Console
+    button:
+      label: Get it now!
+      link: "#contact"
+title: pricing.yml-(yearlyplans)
+draft: true
