@@ -25,6 +25,7 @@ pricing:
     price: "$24.99"
     unit: month
     services:
+    - "$19.99/month (Billed Annually)"
     - 'BASIC PLAN FEATURES
 
 '
