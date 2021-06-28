@@ -67,6 +67,7 @@ pricing:
     price: "$44.99"
     unit: month
     services:
+    - 24x7 Premium Support
     - STANDARD PLAN FEATURES
     - Business IP Phone (Yealink T23G)
     - Web Phone
