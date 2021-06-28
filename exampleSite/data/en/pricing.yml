@@ -61,7 +61,7 @@ pricing:
     - UC Call History Management
     - UC Contacts Integration (Gmail and Outlook)
     button:
-      label: Signup
+      label: Get it now!
       link: "#contact"
   - name: Premium
     price: "$44.99"
@@ -81,7 +81,7 @@ pricing:
     - UC Notes
     - UC Virtual Meeting
     button:
-      label: Signup
+      label: Get it now!
       link: "#contact"
   - name: Enterprise
     price: "$59.99"
@@ -96,5 +96,5 @@ pricing:
     - Hot Desking
     - UC Call Center Management Console
     button:
-      label: Signup
+      label: Get it now!
       link: "#contact"
