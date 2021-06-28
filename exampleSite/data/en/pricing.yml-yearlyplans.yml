@@ -6,35 +6,40 @@ pricing:
   - name: Basic
     price: "$9.59"
     unit: month
-    services: []
+    services:
+    - Billed annually
     button:
       label: Get it now!
       link: "#contact"
   - name: Basic+
     price: "$19.99"
     unit: month
-    services: []
+    services:
+    - Billed annually
     button:
       label: Get it now!
       link: "#contact"
   - name: Standard
     price: "$27.99"
     unit: month
-    services: []
+    services:
+    - Billed annually
     button:
       label: Get it now!
       link: "#contact"
   - name: Premium
     price: "$35.99"
     unit: month
-    services: []
+    services:
+    - Billed annually
     button:
       label: Get it now!
       link: "#contact"
   - name: Enterprise
     price: "$47.99"
     unit: month
-    services: []
+    services:
+    - Billed annually
     button:
       label: Get it now!
       link: "#contact"
