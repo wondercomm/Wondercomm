@@ -7,6 +7,7 @@ pricing:
     price: "$11.99"
     unit: month
     services:
+    - 24x5 Basic Support
     - Hosted Device
     - Phone Number
     - Unlimited Calling
@@ -17,7 +18,6 @@ pricing:
     - 3-way Conferencing
     - Extension Dialing
     - Music on Hold
-    - 24x7 Basic Customer Support
     button:
       label: Get it now!
       link: "#contact"
