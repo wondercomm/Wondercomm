@@ -99,3 +99,28 @@ pricing:
     button:
       label: Get it now!
       link: "#contact"
+  - name: Microsoft Teams
+    price: "$29.99"
+    services: ''
+    button:
+      label: Get it now!
+      link: "#contact"
+    unit: month
+  - name: Add ons
+    services:
+    - Additional e-911 Location | $2.99
+    - SMS & MMS Support ($0.02/$0.04)
+    - Call Recording | $5.99
+    - Custom Music on Hold | $0.99
+    - Audio Encryption | $0.99
+    - Directory Services | $0.99
+    - Find me Follow me | $1.49
+    - HD Voice | $0.99
+    - Voicemail to Email | $1.49
+    - Cell Phone Extension | $1.49
+    - Toll-Free Telephone Number | $3.99
+    - Additional Device | $4.99
+    - Conference Bridge | $9.99
+    - Burst Trunk | $9.99
+    button: ''
+    unit: month
