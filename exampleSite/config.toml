@@ -31,7 +31,7 @@ weight = 4
 [[Languages.en.menu.main]]
 name = "pricing"
 pre = "#"
-url = "monthly plans"
+url = "pricing"
 weight = 5
 [[Languages.en.menu.main]]
 name = "contact"
