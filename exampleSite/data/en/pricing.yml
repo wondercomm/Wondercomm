@@ -124,5 +124,5 @@ pricing:
     - Conference Bridge | $9.99
     - Burst Trunk | $9.99
     button: ''
-    unit: month
-    price: user or account
+    unit: Pick and Add
+    price: ''
