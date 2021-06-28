@@ -34,11 +34,6 @@ pre = "#"
 url = "monthly plans"
 weight = 5
 [[Languages.en.menu.main]]
-name = "annual plans"
-pre = "#"
-url = "pricingyearlyplans"
-weight = 6
-[[Languages.en.menu.main]]
 name = "contact"
 pre = "#"
 url = "contact"
