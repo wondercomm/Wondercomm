@@ -84,29 +84,17 @@ pricing:
       label: Signup
       link: "#contact"
   - name: Enterprise
-    price: "$45"
+    price: "$59.99"
     unit: month
     services:
-    - Boomea UC User License*
-    - Device License
-    - Additional Device
-    - Virtual Trunk
-    - Domestic Unlimited Local and LD calling
-    - Domestic Telephone Number with CID
-    - Virtual Extension
-    - Voicemail box
-    - Voicemail to Email
-    - Mobile Twinning
-    - Find me Follow me
-    - HD voice
-    - User Dashboard
-    - Conference Bridge
-    - Hot desking/Hoteling
-    - Device Encryption
-    - Fax to Email
-    - Chat/Messaging
-    - File Sharing
-    - 24/7 Tech Support
+    - PREMIUM PLAN FEATURES
+    - 24x7 Dedicated Phone Support
+    - 24x7 Premium Support
+    - Enterprise IP Phone (Yealink T33G)
+    - 'Additional Hsoted Device '
+    - Fax Box (in/out)
+    - Hot Desking
+    - UC Call Center Management Console
     button:
       label: Signup
       link: "#contact"
