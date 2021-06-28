@@ -5,7 +5,7 @@ pricing:
   pricing_table:
   - name: Basic
     price: "$11.99"
-    unit: month
+    unit: month (Billed Annually)
     services:
     - |-
       OR
