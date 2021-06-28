@@ -25,7 +25,9 @@ pricing:
     price: "$24.99"
     unit: month
     services:
-    - Basic Plan Features
+    - 'BASIC PLAN FEATURES
+
+'
     - Basic IP Phone (Yealink T21P-E2)
     - Caller ID (CNAM)
     - Time of the Day Routing
