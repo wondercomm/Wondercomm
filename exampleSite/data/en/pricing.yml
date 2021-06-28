@@ -43,21 +43,19 @@ pricing:
       label: Signup
       link: "#contact"
   - name: Standard
-    price: "$35"
+    price: "$34.99"
     unit: month
     services:
-    - Boomea UC User License*
-    - Device License
-    - Virtual Trunk
-    - Domestic Unlimited Local and LD calling
-    - Domestic Telephone Number
-    - Voicemail Box
-    - Voicemail to Email
-    - HD voice
-    - User Dashboard
-    - Chat/Messaging
-    - File Sharing
-    - 24/7 Tech Support
+    - BASIC+ PLAN FEATURES
+    - Standard IP Phone (Yealink T-31P)
+    - Mobile App
+    - Enhanced Voicemail
+    - HD Voice
+    - Find Me Follow Me
+    - UC Phone Platform
+    - UC Voicemail Platform
+    - UC Call History Management
+    - UC Contacts Integration (Gmail and Outlook)
     button:
       label: Signup
       link: "#contact"
