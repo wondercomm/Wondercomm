@@ -6,8 +6,21 @@ pricing:
   - name: Basic
     price: 11.99/Month
     unit: "$"
-    services: ''
-    button: ''
+    services:
+    - Hosted Device
+    - Phone Number
+    - Unlimited Calling
+    - e-911 Compliance
+    - Voicemail
+    - Auto-attendant
+    - Call Forwarding
+    - 3-way Conferencing
+    - Extension Dialing
+    - Music on Hold
+    - 24x7 Customer Support
+    button:
+      label: Get it now!
+      link: "#contact"
   - name: Basic+
     price: "$25"
     unit: month
