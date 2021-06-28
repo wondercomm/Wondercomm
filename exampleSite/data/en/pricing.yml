@@ -8,7 +8,7 @@ pricing:
     unit: "$"
     services: ''
     button: ''
-  - name: Basic
+  - name: Basic+
     price: "$25"
     unit: month
     services:
