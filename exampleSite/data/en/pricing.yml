@@ -4,6 +4,11 @@ pricing:
   title: Our Plans
   pricing_table:
   - name: Basic
+    price: 11.99/Month
+    unit: "$"
+    services: ''
+    button: ''
+  - name: Basic
     price: "$25"
     unit: month
     services:
