@@ -43,7 +43,7 @@ pricing:
     - Private Calling
     - UC Phone Platform
     button:
-      label: Signup
+      label: Get it now!
       link: "#contact"
   - name: Standard
     price: "$34.99"
