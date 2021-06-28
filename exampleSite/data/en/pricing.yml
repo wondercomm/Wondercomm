@@ -7,9 +7,6 @@ pricing:
     price: "$11.99"
     unit: month
     services:
-    - |-
-      OR
-      $9.99/month (Billed Annually)
     - 24x5 Basic Support
     - Hosted Device
     - Phone Number
