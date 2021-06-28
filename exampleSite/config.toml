@@ -128,8 +128,11 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/wondercomm"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "https://twitter.com/wondercomm_net"
+[[params.social]]
+icon = " ti-facebook "
+link = "https://www.facebook.com/wondercomm.net"
