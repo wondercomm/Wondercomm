@@ -101,7 +101,8 @@ pricing:
       link: "#contact"
   - name: Microsoft Teams
     price: "$29.99"
-    services: ''
+    services:
+    - Coming Soon!
     button:
       label: Get it now!
       link: "#contact"
