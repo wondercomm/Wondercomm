@@ -7,6 +7,7 @@ pricing:
     price: "$11.99"
     unit: month
     services:
+    - "*Introductory Price"
     - 24x5 Basic Support
     - Hosted Device
     - Phone Number
@@ -39,9 +40,6 @@ pricing:
     - Blacklist Numbers
     - Custom Music on Hold
     - Enhanced Call Forwarding
-    - Call Park
-    - Intercom
-    - Private Calling
     - UC Phone Platform
     button:
       label: Get it now!
@@ -58,6 +56,9 @@ pricing:
     - Enhanced Voicemail
     - HD Voice
     - Find Me Follow Me
+    - Call Park
+    - Intercom
+    - Private Calling
     - UC Phone Platform
     - UC Voicemail Platform
     - UC Call History Management
