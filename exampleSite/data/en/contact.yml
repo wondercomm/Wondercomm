@@ -10,9 +10,9 @@ contact:
   - icon: ti-location-pin
     info: 535 Yates Street, Victoria, British Columbia
   - icon: ti-mobile
-    info: 'Phone: +1 (604) 373-1230'
+    info: "+1 (604) 373-1230"
   - icon: ti-email
-    info: 'Email: support@wondercomm.net'
+    info: support@wondercomm.net
   contact_form:
     enable: false
     form_action: mailto:vs@exportcottage.com
