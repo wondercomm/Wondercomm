@@ -64,7 +64,18 @@ pricing:
   - name: Premium
     price: "$44.99"
     unit: month
-    services: []
+    services:
+    - STANDARD PLAN FEATURES
+    - Business IP Phone (Yealink T23G)
+    - Web Phone
+    - Call Recording
+    - Encryption
+    - Incoming Fax to Email
+    - UC Chat + IM + File Share
+    - UC Call Recording Management
+    - 'UC Tasks '
+    - UC Notes
+    - UC Virtual Meeting
     button:
       label: Signup
       link: "#contact"
