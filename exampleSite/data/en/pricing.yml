@@ -7,6 +7,9 @@ pricing:
     price: "$11.99"
     unit: month
     services:
+    - |-
+      OR
+      $9.99/month (Billed Annually)
     - 24x5 Basic Support
     - Hosted Device
     - Phone Number
@@ -25,7 +28,7 @@ pricing:
     price: "$24.99"
     unit: month
     services:
-    - "$19.99/month (Billed Annually)"
+    - "OR \n$19.99/month (Billed Annually)"
     - 'BASIC PLAN FEATURES
 
 '
@@ -50,6 +53,7 @@ pricing:
     price: "$34.99"
     unit: month
     services:
+    - "OR \n27.99 / month (Billed Annually)"
     - BASIC+ PLAN FEATURES
     - 24x7 Premium Support
     - Standard IP Phone (Yealink T-31P)
@@ -68,6 +72,9 @@ pricing:
     price: "$44.99"
     unit: month
     services:
+    - |-
+      OR
+      $35.99/month (Billed Annually)
     - STANDARD PLAN FEATURES
     - 24x7 Phone Support
     - 24x7 Premium Support
@@ -88,6 +95,7 @@ pricing:
     price: "$59.99"
     unit: month
     services:
+    - "OR \n$47.99/month (Billed Annually)"
     - PREMIUM PLAN FEATURES
     - 24x7 Phone Support
     - 24x7 Premium Support
