@@ -7,10 +7,12 @@ contact:
     us 24 hours to respond and we'll get in touch. \nDon't feel like writing an email?
     Give us a call."
   contact_list:
+  - icon: ti-mobile
+    info: "+1 (807) 700-6007 (Canada)"
   - icon: ti-location-pin
     info: 535 Yates Street, Victoria, British Columbia
   - icon: ti-mobile
-    info: "‪+1 (838) 699-0007"
+    info: "‪+1 (838) 699-0007 (United States)"
   - icon: ti-email
     info: support@wondercomm.net
   contact_form:
