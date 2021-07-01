@@ -4,7 +4,7 @@ pricing:
   title: Our Plans
   pricing_table:
   - name: Basic
-    price: "$<s>14.99</s> 11.99*"
+    price: "$11.99*"
     unit: month
     services:
     - "*Introductory Price"
