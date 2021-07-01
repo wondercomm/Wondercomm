@@ -17,7 +17,6 @@ pricing:
     - Auto-attendant
     - Call Forwarding
     - 3-way Conferencing
-    - Extension Dialing
     - Music on Hold
     button:
       label: Get it now!
