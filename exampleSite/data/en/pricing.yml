@@ -105,13 +105,14 @@ pricing:
       label: Get it now!
       link: "#contact"
   - name: Microsoft Teams
-    price: "$29.99"
+    price: "$9.99"
     services:
-    - Coming Soon!
+    - Minimum 100 users
+    - Integrates with existing PBX - Asterix, 3CX, etc.
     button:
       label: Get it now!
       link: "#contact"
-    unit: month
+    unit: month per user
   - name: Add ons
     services:
     - Additional e-911 Location | $2.99
