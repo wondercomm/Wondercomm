@@ -21,7 +21,7 @@ pricing:
     button:
       label: Get it now!
       link: "#contact"
-  - name: Basic+
+  - name: Basic
     price: "$24.99"
     unit: month
     services:
