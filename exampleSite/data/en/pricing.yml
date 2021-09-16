@@ -3,7 +3,7 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
-  - name: Basic
+  - name: Residential
     price: "$11.99*"
     unit: month
     services:
