@@ -10,6 +10,8 @@ contact:
   - icon: ti-location-pin
     info: 535 Yates Street, Victoria, British Columbia
   - icon: ti-mobile
+    info: "+1 (581) 880-0007 (Canada)"
+  - icon: ti-mobile
     info: "+1 (814) 900-4900; +1 (848) 288-2096 (United States)"
   - icon: ti-email
     info: support@wondercomm.net
